@@ -1,0 +1,2227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Aatrox" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\aatrox.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AatroxE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\aatroxe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AatroxQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\aatroxq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AatroxR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\aatroxr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AatroxW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\aatroxw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AbsoluteZero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\absolutezero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ahri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\ahri.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AhriFoxFire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ahrifoxfire.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AhriOrbofDeception" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ahriorbofdeception.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AhriSeduce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ahriseduce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AhriTumble" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ahritumble.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Akali" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\akali.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AkaliMota" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\akalimota.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AkaliShadowDance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\akalishadowdance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AkaliShadowSwipe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\akalishadowswipe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AkaliSmokeBomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\akalismokebomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Alistar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\alistar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlphaStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\alphastrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlZaharCalloftheVoid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\alzaharcallofthevoid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlZaharMaleficVisions" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\alzaharmaleficvisions.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlZaharNetherGrasp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\alzaharnethergrasp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlZaharNullZone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\alzaharnullzone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Amumu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\amumu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Anivia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\anivia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Annie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\annie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ashe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\ashe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AsheQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\asheq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AsheSpiritOfTheHawk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ashespiritofthehawk.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AspectOfTheCougar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\aspectofthecougar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AspectOfTheCougar0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\aspectofthecougar0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AuraofDespair" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\auraofdespair.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Azir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\azir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AzirEWrapper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\azirewrapper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AzirQWrapper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\azirqwrapper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AzirR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\azirr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AzirW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\azirw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BandageToss" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bandagetoss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\bard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BardE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\barde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BardQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bardq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BardR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bardr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BardW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bardw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlackShield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\blackshield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlindingDart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\blindingdart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlindMonkEOne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\blindmonkeone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlindMonkEOne0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\blindmonkeone0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlindMonkQOne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\blindmonkqone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlindMonkQOne0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\blindmonkqone0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlindMonkRKick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\blindmonkrkick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BlindMonkWOne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\blindmonkwone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blitzcrank" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\blitzcrank.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BloodBoil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bloodboil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bloodlust" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bloodlust.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BloodScent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bloodscent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\brand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrandBlaze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\brandblaze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrandConflagration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\brandconflagration.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrandFissure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\brandfissure.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrandWildfire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\brandwildfire.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Braum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\braum.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BraumE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\braume.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BraumQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\braumq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BraumRWrapper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\braumrwrapper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BraumW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\braumw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BurningAgony" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\burningagony.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bushwhack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bushwhack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bushwhack0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\bushwhack0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Caitlyn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\caitlyn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CaitlynAceintheHole" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\caitlynaceinthehole.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CaitlynEntrapment" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\caitlynentrapment.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CaitlynPiltoverPeacemaker" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\caitlynpiltoverpeacemaker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CaitlynYordleTrap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\caitlynyordletrap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CardmasterStack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\cardmasterstack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CarpetBomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\carpetbomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Cassiopeia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\cassiopeia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CassiopeiaMiasma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\cassiopeiamiasma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CassiopeiaNoxiousBlast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\cassiopeianoxiousblast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CassiopeiaPetrifyingGaze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\cassiopeiapetrifyinggaze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CassiopeiaTwinFang" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\cassiopeiatwinfang.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chogath" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\chogath.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ChronoShift" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\chronoshift.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Consume" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\consume.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Corki" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\corki.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Crowstorm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\crowstorm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Crystallize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\crystallize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CurseoftheSadMummy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\curseofthesadmummy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Darius" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\darius.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DariusAxeGrabCone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dariusaxegrabcone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DariusCleave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dariuscleave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DariusExecute" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dariusexecute.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DariusNoxianTacticsONH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dariusnoxiantacticsonh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DarkBindingMissile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\darkbindingmissile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dazzle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dazzle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Deceive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\deceive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DefensiveBallCurl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\defensiveballcurl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Destiny" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\destiny.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Diana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\diana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DianaArc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dianaarc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DianaOrbs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dianaorbs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DianaTeleport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dianateleport.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DianaVortex" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dianavortex.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Disintegrate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\disintegrate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Drain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\drain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Draven" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\draven.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DravenDoubleShot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dravendoubleshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DravenFury" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dravenfury.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DravenRCast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dravenrcast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DravenSpinning" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\dravenspinning.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DrMundo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\drmundo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekko" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\ekko.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EkkoE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ekkoe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EkkoQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ekkoq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EkkoR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ekkor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EkkoW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ekkow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Elise" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\elise.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseHumanE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisehumane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseHumanE0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisehumane0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseHumanQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisehumanq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseHumanQ0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisehumanq0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseHumanW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisehumanw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseHumanW0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisehumanw0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\eliser.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseRSpider" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\eliserspider.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseSpiderEInitial" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisespidereinitial.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseSpiderQCast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisespiderqcast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EliseSpiderW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\elisespiderw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EnchantedCrystalArrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\enchantedcrystalarrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Evelynn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\evelynn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EvelynnE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\evelynne.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EvelynnQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\evelynnq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EvelynnR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\evelynnr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EvelynnW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\evelynnw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EyeOfTheStorm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\eyeofthestorm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ezreal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\ezreal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EzrealArcaneShift" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ezrealarcaneshift.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EzrealEssenceFlux" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ezrealessenceflux.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EzrealMysticShot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ezrealmysticshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EzrealTrueshotBarrage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ezrealtrueshotbarrage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Feast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\feast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FeralScream" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\feralscream.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FerociousHowl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ferocioushowl.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FiddleSticks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\fiddlesticks.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FiddlesticksDarkWind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fiddlesticksdarkwind.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fiora" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\fiora.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FioraE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fiorae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FioraQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fioraq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FioraR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fiorar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FioraW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fioraw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fizz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\fizz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FizzJump" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fizzjump.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FizzMarinerDoom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fizzmarinerdoom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FizzPiercingStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fizzpiercingstrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FizzSeastonePassive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fizzseastonepassive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FlashFrost" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\flashfrost.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fling" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\fling.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ForcePulse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\forcepulse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frostbite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\frostbite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Galio" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\galio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GalioBulwark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\galiobulwark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GalioIdolOfDurand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\galioidolofdurand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GalioResoluteSmite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\galioresolutesmite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GalioRighteousGust" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\galiorighteousgust.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gangplank" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\gangplank.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GangplankE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gangplanke.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GangplankQWrapper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gangplankqwrapper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GangplankR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gangplankr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GangplankW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gangplankw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Garen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\garen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GarenE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\garene.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GarenQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\garenq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GarenR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\garenr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GarenW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\garenw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GGun" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ggun.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GlacialStorm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\glacialstorm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gnar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\gnar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GnarE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gnare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GnarE0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gnare0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GnarQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gnarq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GnarQ0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gnarq0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GnarR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gnarr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GnarW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gnarw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GnarW0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gnarw0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gragas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\gragas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GragasE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gragase.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GragasQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gragasq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GragasR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gragasr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GragasW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gragasw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graves" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\graves.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GravesChargeShot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\graveschargeshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GravesMove" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gravesmove.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GravesQLineSpell" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gravesqlinespell.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GravesSmokeGrenade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\gravessmokegrenade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HallucinateFull" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\hallucinatefull.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Headbutt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\headbutt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hecarim" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\hecarim.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HecarimRamp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\hecarimramp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HecarimRapidSlash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\hecarimrapidslash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HecarimUlt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\hecarimult.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HecarimW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\hecarimw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Heimerdinger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\heimerdinger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HeimerdingerE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\heimerdingere.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HeimerdingerQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\heimerdingerq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HeimerdingerR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\heimerdingerr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HeimerdingerW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\heimerdingerw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Highlander" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\highlander.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HowlingGale" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\howlinggale.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HungeringStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\hungeringstrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HuntersCall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\hunterscall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IceBlast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\iceblast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Illaoi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\illaoi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IllaoiE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\illaoie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IllaoiQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\illaoiq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IllaoiR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\illaoir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IllaoiW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\illaoiw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imbue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\imbue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Incinerate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\incinerate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InfectedCleaverMissileCast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\infectedcleavermissilecast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InfernalGuardian" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\infernalguardian.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InfernalGuardian0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\infernalguardian0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InfiniteDuress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\infiniteduress.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InsanityPotion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\insanitypotion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Irelia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\irelia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IreliaEquilibriumStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ireliaequilibriumstrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IreliaGatotsu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ireliagatotsu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IreliaHitenStyle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ireliahitenstyle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IreliaTranscendentBlades" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ireliatranscendentblades.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JackInTheBox" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jackinthebox.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Janna" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\janna.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JarvanIV" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\jarvaniv.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JarvanIVCataclysm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jarvanivcataclysm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JarvanIVDemacianStandard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jarvanivdemacianstandard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JarvanIVDragonStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jarvanivdragonstrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JarvanIVGoldenAegis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jarvanivgoldenaegis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JavelinToss" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\javelintoss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JavelinToss0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\javelintoss0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\jax.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JaxCounterStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaxcounterstrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JaxEmpowerTwo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaxempowertwo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JaxLeapStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaxleapstrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JaxRelentlessAssault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaxrelentlessassault.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jayce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\jayce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JayceAccelerationGate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jayceaccelerationgate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JayceHyperCharge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaycehypercharge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JayceShockBlast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jayceshockblast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JayceStanceGtH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaycestancegth.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JayceStanceHtG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaycestancehtg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JayceStaticField" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaycestaticfield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JayceThunderingBlow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaycethunderingblow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JayceToTheSkies" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jaycetotheskies.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jhin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\jhin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JhinE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jhine.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JhinQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jhinq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JhinR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jhinr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JhinW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jhinw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jinx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\jinx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JinxE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jinxe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JinxQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jinxq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JinxR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jinxr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JinxW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\jinxw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JudicatorDivineBlessing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\judicatordivineblessing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JudicatorIntervention" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\judicatorintervention.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JudicatorReckoning" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\judicatorreckoning.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JudicatorRighteousFury" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\judicatorrighteousfury.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kalista" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\kalista.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KalistaExpungeWrapper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kalistaexpungewrapper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KalistaMysticShot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kalistamysticshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KalistaRx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kalistarx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KalistaW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kalistaw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Karma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\karma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarmaMantra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karmamantra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarmaQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karmaq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarmaQ0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karmaq0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarmaSolKimShield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karmasolkimshield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarmaSolKimShield0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karmasolkimshield0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarmaSpiritBind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karmaspiritbind.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarmaSpiritBind0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karmaspiritbind0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Karthus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\karthus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarthusDefile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karthusdefile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarthusFallenOne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karthusfallenone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarthusLayWasteA1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karthuslaywastea1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KarthusWallOfPain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\karthuswallofpain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kassadin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\kassadin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Katarina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\katarina.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KatarinaE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\katarinae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KatarinaQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\katarinaq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KatarinaR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\katarinar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KatarinaW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\katarinaw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kayle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\kayle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kennen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\kennen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KennenBringTheLight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kennenbringthelight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KennenLightningRush" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kennenlightningrush.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KennenShurikenHurlMissile1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kennenshurikenhurlmissile1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KennenShurikenStorm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kennenshurikenstorm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Khazix" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\khazix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KhazixE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\khazixe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KhazixE0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\khazixe0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KhazixQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\khazixq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KhazixQ0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\khazixq0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KhazixR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\khazixr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KhazixR0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\khazixr0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KhazixW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\khazixw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KhazixW0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\khazixw0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kindred" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\kindred.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KindredEWrapper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kindredewrapper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KindredQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kindredq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KindredR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kindredr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KindredW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kindredw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KogMaw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\kogmaw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KogMawBioArcaneBarrage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kogmawbioarcanebarrage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KogMawLivingArtillery" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kogmawlivingartillery.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KogMawQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kogmawq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="KogMawVoidOoze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\kogmawvoidooze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Landslide" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\landslide.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leblanc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\leblanc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeblancChaosOrb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leblancchaosorb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeblancMimic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leblancmimic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeblancMimic0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leblancmimic0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeblancMimic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leblancmimic1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeblancMimic2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leblancmimic2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeblancSlide" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leblancslide.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeblancSoulShackle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leblancsoulshackle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeeSin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\leesin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leona" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\leona.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeonaShieldOfDaybreak" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leonashieldofdaybreak.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeonaSolarBarrier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leonasolarbarrier.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeonaSolarFlare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leonasolarflare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeonaZenithBlade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\leonazenithblade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lissandra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\lissandra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LissandraE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lissandrae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LissandraQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lissandraq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LissandraR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lissandrar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LissandraW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lissandraw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lucian" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\lucian.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LucianE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\luciane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LucianQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lucianq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LucianR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lucianr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LucianW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lucianw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lulu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\lulu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuluE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lulue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuluQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\luluq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuluR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\lulur.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuluW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\luluw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lux" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\lux.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuxLightBinding" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\luxlightbinding.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuxLightStrikeKugel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\luxlightstrikekugel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuxMaliceCannon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\luxmalicecannon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LuxPrismaticWave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\luxprismaticwave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Malphite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\malphite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Malzahar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\malzahar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maokai" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\maokai.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MaokaiDrain3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\maokaidrain3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MaokaiSapling2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\maokaisapling2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MaokaiTrunkLine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\maokaitrunkline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MaokaiUnstableGrowth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\maokaiunstablegrowth.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Masochism" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\masochism.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MasterYi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\masteryi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Meditate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\meditate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MegaAdhesive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\megaadhesive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MissFortune" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\missfortune.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MissFortuneBulletTime" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\missfortunebullettime.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MissFortuneRicochetShot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\missfortunericochetshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MissFortuneScattershot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\missfortunescattershot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MissFortuneViciousStrikes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\missfortuneviciousstrikes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MissileBarrage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\missilebarrage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MockingShout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\mockingshout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MoltenShield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\moltenshield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MonkeyKing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\monkeyking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MonkeyKingDecoy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\monkeykingdecoy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MonkeyKingDoubleAttack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\monkeykingdoubleattack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MonkeyKingNimbus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\monkeykingnimbus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MonkeyKingSpinToWin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\monkeykingspintowin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mordekaiser" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\mordekaiser.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MordekaiserChildrenOfTheGrave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\mordekaiserchildrenofthegrave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MordekaiserCreepingDeathCast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\mordekaisercreepingdeathcast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MordekaiserMaceOfSpades" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\mordekaisermaceofspades.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MordekaiserSyphonOfDestruction" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\mordekaisersyphonofdestruction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Morgana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\morgana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MoveQuick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\movequick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nami" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\nami.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NamiE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\namie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NamiQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\namiq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NamiR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\namir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NamiW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\namiw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nasus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\nasus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NasusE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nasuse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NasusQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nasusq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NasusR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nasusr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NasusW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nasusw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nautilus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\nautilus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NautilusAnchorDrag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nautilusanchordrag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NautilusGrandLine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nautilusgrandline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NautilusPiercingGaze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nautiluspiercinggaze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NautilusSplashZone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nautilussplashzone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NetherBlade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\netherblade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nidalee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\nidalee.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nocturne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\nocturne.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NocturneDuskbringer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nocturneduskbringer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NocturneParanoia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nocturneparanoia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NocturneShroudofDarkness" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nocturneshroudofdarkness.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NocturneUnspeakableHorror" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nocturneunspeakablehorror.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NullLance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\nulllance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nunu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\nunu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Obduracy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\obduracy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Olaf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\olaf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OlafAxeThrowCast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\olafaxethrowcast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OlafFrenziedStrikes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\olaffrenziedstrikes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OlafRagnarok" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\olafragnarok.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OlafRecklessStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\olafrecklessstrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OrianaDetonateCommand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\orianadetonatecommand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OrianaDissonanceCommand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\orianadissonancecommand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OrianaIzunaCommand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\orianaizunacommand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OrianaRedactCommand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\orianaredactcommand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Orianna" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\orianna.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Overdrive" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\overdrive.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pantheon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\pantheon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PantheonE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\pantheone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PantheonQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\pantheonq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PantheonRJump" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\pantheonrjump.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PantheonW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\pantheonw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PhosphorusBomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\phosphorusbomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PickACard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\pickacard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PoisonTrail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\poisontrail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Poppy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\poppy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PoppyE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\poppye.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PoppyQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\poppyq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PoppyR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\poppyr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PoppyW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\poppyw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pounce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\pounce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PowerBall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\powerball.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PowerFist" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\powerfist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PrimalSurge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\primalsurge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PrimalSurge0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\primalsurge0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pulverize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\pulverize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PuncturingTaunt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\puncturingtaunt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quinn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\quinn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuinnE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\quinne.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuinnQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\quinnq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuinnR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\quinnr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuinnW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\quinnw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rammus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\rammus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ReapTheWhirlwind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\reapthewhirlwind.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RekSai" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\reksai.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RekSaiE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\reksaie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RekSaiE0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\reksaie0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RekSaiQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\reksaiq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RekSaiQ0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\reksaiq0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RekSaiR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\reksair.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RekSaiW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\reksaiw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RekSaiW0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\reksaiw0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Renekton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\renekton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RenektonCleave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\renektoncleave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RenektonPreExecute" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\renektonpreexecute.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RenektonReignOfTheTyrant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\renektonreignofthetyrant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RenektonSliceAndDice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\renektonsliceanddice.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RenektonSliceAndDice0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\renektonsliceanddice0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rengar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\rengar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RengarE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rengare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RengarQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rengarq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RengarR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rengarr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RengarW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rengarw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RiftWalk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\riftwalk.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Riven" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\riven.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RivenFeint" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rivenfeint.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RivenFengShuiEngine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rivenfengshuiengine.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RivenMartyr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rivenmartyr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RivenTriCleave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\riventricleave.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RocketGrab" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rocketgrab.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rumble" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\rumble.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RumbleCarpetBomb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rumblecarpetbomb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RumbleFlameThrower" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rumbleflamethrower.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RumbleGrenade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rumblegrenade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RumbleShield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rumbleshield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Rupture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\rupture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ryze" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\ryze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RyzeE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ryzee.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RyzeQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ryzeq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RyzeR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ryzer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RyzeW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ryzew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sadism" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sadism.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SeismicShard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\seismicshard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sejuani" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\sejuani.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SejuaniArcticAssault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sejuaniarcticassault.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SejuaniGlacialPrisonStart" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sejuaniglacialprisonstart.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SejuaniNorthernWinds" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sejuaninorthernwinds.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SejuaniWintersClaw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sejuaniwintersclaw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shaco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\shaco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shatter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shatter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\shen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShenE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shene.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShenQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shenq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShenR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shenr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShenW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shenw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shyvana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\shyvana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShyvanaDoubleAttack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shyvanadoubleattack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShyvanaFireball" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shyvanafireball.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShyvanaImmolationAura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shyvanaimmolationaura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShyvanaTransformCast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\shyvanatransformcast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Singed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\singed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\sion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SionE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sione.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SionQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sionq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SionR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sionr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SionW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sionw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sivir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\sivir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SivirE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sivire.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SivirQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sivirq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SivirR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sivirr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SivirW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sivirw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Skarner" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\skarner.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SkarnerExoskeleton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\skarnerexoskeleton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SkarnerFracture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\skarnerfracture.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SkarnerImpale" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\skarnerimpale.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SkarnerVirulentSlash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\skarnervirulentslash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="slashCast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\slashcast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sona" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\sona.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SonaE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sonae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SonaQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sonaq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SonaR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sonar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SonaW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sonaw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Soraka" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\soraka.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SorakaE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sorakae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SorakaQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sorakaq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SorakaR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sorakar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SorakaW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sorakaw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SoulShackles" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\soulshackles.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SowTheWind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\sowthewind.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StaticField" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\staticfield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerbarrier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerbarrier.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerboost" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerboost.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerclairvoyance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerclairvoyance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerdot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerdot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerexhaust" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerexhaust.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerflash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerflash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerhaste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerhaste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerheal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerheal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonermana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonermana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerodingarrison" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerodingarrison.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerpororecall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerpororecall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerporothrow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerporothrow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonersmite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonersmite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonersnowball" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonersnowball.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="summonerteleport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\summonerteleport.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Swain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\swain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SwainDecrepify" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\swaindecrepify.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SwainMetamorphism" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\swainmetamorphism.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SwainShadowGrasp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\swainshadowgrasp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SwainTorment" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\swaintorment.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Swipe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\swipe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Syndra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\syndra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SyndraE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\syndrae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SyndraQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\syndraq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SyndraR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\syndrar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SyndraW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\syndraw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TahmKench" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\tahmkench.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TahmKenchE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tahmkenche.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TahmKenchNewR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tahmkenchnewr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TahmKenchQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tahmkenchq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TahmKenchW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tahmkenchw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Takedown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\takedown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Talon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\talon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TalonCutthroat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\taloncutthroat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TalonNoxianDiplomacy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\talonnoxiandiplomacy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TalonRake" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\talonrake.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TalonShadowAssault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\talonshadowassault.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tantrum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tantrum.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Taric" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\taric.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TaricHammerSmash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tarichammersmash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Teemo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\teemo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TeemoRCast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\teemorcast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Terrify" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\terrify.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Thresh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\thresh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThreshE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\threshe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThreshQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\threshq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThreshRPenta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\threshrpenta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ThreshW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\threshw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TimeWarp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\timewarp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TormentedSoil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tormentedsoil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ToxicShot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\toxicshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tremors2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tremors2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tristana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\tristana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TristanaE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tristanae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TristanaQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tristanaq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TristanaR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tristanar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TristanaW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\tristanaw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TriumphantRoar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\triumphantroar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Trundle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\trundle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrundleCircle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\trundlecircle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trundledesecrate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\trundledesecrate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrundlePain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\trundlepain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TrundleTrollSmash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\trundletrollsmash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tryndamere" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\tryndamere.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwistedFate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\twistedfate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Twitch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\twitch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwitchExpunge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\twitchexpunge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwitchFullAutomatic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\twitchfullautomatic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwitchHideInShadows" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\twitchhideinshadows.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwitchVenomCask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\twitchvenomcask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TwoShivPoison" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\twoshivpoison.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Udyr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\udyr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UdyrBearStance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\udyrbearstance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UdyrPhoenixStance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\udyrphoenixstance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UdyrTigerStance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\udyrtigerstance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UdyrTurtleStance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\udyrturtlestance.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UFSlash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ufslash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UndyingRage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\undyingrage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Urgot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\urgot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UrgotHeatseekingMissile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\urgotheatseekingmissile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UrgotPlasmaGrenade" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\urgotplasmagrenade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UrgotSwap2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\urgotswap2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UrgotTerrorCapacitorActive2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\urgotterrorcapacitoractive2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Varus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\varus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VarusE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\varuse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VarusQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\varusq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VarusR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\varusr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VarusW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\varusw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vayne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\vayne.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VayneCondemn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vaynecondemn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VayneInquisition" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vayneinquisition.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VayneSilveredBolts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vaynesilveredbolts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VayneTumble" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vaynetumble.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Veigar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\veigar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VeigarBalefulStrike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\veigarbalefulstrike.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VeigarDarkMatter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\veigardarkmatter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VeigarEventHorizon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\veigareventhorizon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VeigarPrimordialBurst" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\veigarprimordialburst.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Velkoz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\velkoz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VelkozE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\velkoze.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VelkozQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\velkozq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VelkozR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\velkozr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VelkozW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\velkozw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\vi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ViE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vie.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Viktor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\viktor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ViktorChaosStorm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\viktorchaosstorm.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ViktorDeathRay" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\viktordeathray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ViktorGravitonField" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\viktorgravitonfield.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ViktorPowerTransfer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\viktorpowertransfer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ViQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\viq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ViR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ViW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\viw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vladimir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\vladimir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VladimirHemoplague" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vladimirhemoplague.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VladimirSanguinePool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vladimirsanguinepool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VladimirTidesofBlood" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vladimirtidesofblood.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VladimirTransfusion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vladimirtransfusion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Volibear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\volibear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VolibearE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\volibeare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VolibearQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\volibearq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VolibearR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\volibearr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VolibearW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\volibearw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Volley" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\volley.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VorpalSpikes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\vorpalspikes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Warwick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\warwick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WildCards" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\wildcards.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WujuStyle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\wujustyle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XenZhaoBattleCry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\xenzhaobattlecry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XenZhaoComboTarget" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\xenzhaocombotarget.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XenZhaoParry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\xenzhaoparry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XenZhaoSweep" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\xenzhaosweep.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Xerath" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\xerath.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XerathArcaneBarrage2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\xeratharcanebarrage2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XerathArcanopulseChargeUp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\xeratharcanopulsechargeup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XerathLocusOfPower2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\xerathlocusofpower2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XerathMageSpear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\xerathmagespear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="XinZhao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\xinzhao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yasuo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\yasuo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YasuoDashWrapper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\yasuodashwrapper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YasuoQW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\yasuoqw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YasuoRKnockUpComboW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\yasuorknockupcombow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YasuoWMovingWall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\yasuowmovingwall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Yorick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\yorick.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YorickDecayed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\yorickdecayed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YorickRavenous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\yorickravenous.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YorickReviveAlly" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\yorickreviveally.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="YorickSpectral" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\yorickspectral.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zac" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\zac.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZacE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZacQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zacq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZacR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zacr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZacW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zacw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\zed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZedE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zede.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZedQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zedq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZedR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zedr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZedW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zedw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ziggs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\ziggs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZiggsE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ziggse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZiggsQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ziggsq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZiggsR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ziggsr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZiggsW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\ziggsw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zilean" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\zilean.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZileanQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zileanq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZileanW" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zileanw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zyra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\champion\zyra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZyraBrambleZone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zyrabramblezone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZyraGraspingRoots" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zyragraspingroots.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZyraQFissure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zyraqfissure.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ZyraSeed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icongenerator\spell\zyraseed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_6_1" xml:space="preserve">
+    <value />
+  </data>
+  <data name="IconaSummoners" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IconaSummoners.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SpellLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SpellLayout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SpellLayout2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SpellLayout2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

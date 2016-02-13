@@ -1,0 +1,2784 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Data>
+  <Model name="Aatrox">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Ahri">
+    <Skin name="Classic" index="0" />
+    <Skin name="Dynasty Ahri" index="1" />
+    <Skin name="Midnight Ahri" index="2" />
+    <Skin name="Foxfire Ahri" index="3" />
+    <Skin name="Popstar Ahri" index="4" />
+    <Skin name="Challenger Ahri" index="5" />
+    <Skin name="Academy Ahri" index="6" />
+  </Model>
+  <Model name="Akali">
+    <Skin name="Classic" index="0" />
+    <Skin name="Stinger Akali" index="1" />
+    <Skin name="Crimson Akali" index="2" />
+    <Skin name="All-star Akali" index="3" />
+    <Skin name="Nurse Akali" index="4" />
+    <Skin name="Blood Moon Akali" index="5" />
+    <Skin name="Silverfang Akali" index="6" />
+    <Skin name="Headhunter Akali" index="7" />
+  </Model>
+  <Model name="Alistar">
+    <Skin name="Classic" index="0" />
+    <Skin name="Black Alistar" index="1" />
+    <Skin name="Golden Alistar" index="2" />
+    <Skin name="Matador Alistar" index="3" />
+    <Skin name="Longhorn Alistar" index="4" />
+    <Skin name="Unchained Alistar" index="5" />
+    <Skin name="Infernal Alistar" index="6" />
+    <Skin name="Sweeper Alistar" index="7" />
+    <Skin name="Marauder Alistar" index="8" />
+  </Model>
+  <Model name="Amumu">
+    <Skin name="Classic" index="0" />
+    <Skin name="Pharaoh Amumu" index="1" />
+    <Skin name="Vancouver Amumu" index="2" />
+    <Skin name="Emumu" index="3" />
+    <Skin name="Re-Gifted Amumu" index="4" />
+    <Skin name="Almost-Prom King Amumu" index="5" />
+    <Skin name="Little Knight Amumu" index="6" />
+    <Skin name="Sad Robot Amumu" index="7" />
+    <Skin name="Surprise Party Amumu" index="8" />
+  </Model>
+  <Model name="AncientGolem">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Anivia">
+    <Skin name="Classic" index="0" />
+    <Skin name="Team Spirit Anivia" index="1" />
+    <Skin name="Bird of Prey Anivia" index="2" />
+    <Skin name="Noxus Hunter Anivia" index="3" />
+    <Skin name="Hextech Anivia" index="4" />
+    <Skin name="Blackfrost Anivia" index="5" />
+    <Skin name="Prehistoric Anivia" index="6" />
+  </Model>
+  <Model name="AniviaEgg">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="AniviaIceblock">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="Annie">
+    <Skin name="Classic" index="0" />
+    <Skin name="Goth Annie" index="1" />
+    <Skin name="Red Riding Annie" index="2" />
+    <Skin name="Annie in Wonderland" index="3" />
+    <Skin name="Prom Queen Annie" index="4" />
+    <Skin name="Frostfire Annie" index="5" />
+    <Skin name="Reverse Annie" index="6" />
+    <Skin name="FrankenTibbers Annie" index="7" />
+    <Skin name="Panda Annie" index="8" />
+    <Skin name="Sweetheart Annie" index="9" />
+  </Model>
+  <Model name="AnnieTibbers">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+  </Model>
+  <Model name="ARAMChaosNexus">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMChaosTurretFront">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMChaosTurretInhib">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMChaosTurretNexus">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMChaosTurretShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMOrderNexus">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMOrderTurretFront">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMOrderTurretInhib">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMOrderTurretNexus">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ARAMOrderTurretShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="AramSpeedShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="AscRelic">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="AscWarpIcon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="AscXerath">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Ashe">
+    <Skin name="Classic" index="0" />
+    <Skin name="Freljord Ashe" index="1" />
+    <Skin name="Sherwood Forest Ashe" index="2" />
+    <Skin name="Woad Ashe" index="3" />
+    <Skin name="Queen Ashe" index="4" />
+    <Skin name="Amethyst Ashe" index="5" />
+    <Skin name="Heartseeker Ashe" index="6" />
+    <Skin name="Marauder Ashe" index="7" />
+  </Model>
+  <Model name="Azir">
+    <Skin name="Classic" index="0" />
+    <Skin name="Galactic Azir" index="1" />
+  </Model>
+  <Model name="AzirSoldier">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="AzirSunDisc">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="AzirTowerClicker">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="AzirUltSoldier">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="Bard">
+    <Skin name="Classic" index="0" />
+    <Skin name="Elderwood Bard" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="BardFollower">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="BardHealthShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BardPickup">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BardPickupNoIcon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BardPortalClickable">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BilgeLaneCannon_Chaos">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BilgeLaneCannon_Order">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BilgeLaneMelee_Chaos">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BilgeLaneMelee_Order">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BilgeLaneRanged_Chaos">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BilgeLaneRanged_Order">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Blitzcrank">
+    <Skin name="Classic" index="0" />
+    <Skin name="Rusty Blitzcrank" index="1" />
+    <Skin name="Goalkeeper Blitzcrank" index="2" />
+    <Skin name="Boom Boom Blitzcrank" index="3" />
+    <Skin name="Piltover Customs Blitzcrank" index="4" />
+    <Skin name="Definitely Not Blitzcrank" index="5" />
+    <Skin name="iBlitzcrank" index="6" />
+    <Skin name="Riot Blitzcrank" index="7" />
+    <Skin name="Battle Boss Blitzcrank" index="8" />
+    <Skin name="Skin09" index="9" />
+    <Skin name="Skin10" index="10" />
+    <Skin name="Skin11" index="11" />
+  </Model>
+  <Model name="BlueTrinket">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Blue_Minion_Basic">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Blue_Minion_MechCannon">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Blue_Minion_MechMelee">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Blue_Minion_Wizard">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Brand">
+    <Skin name="Classic" index="0" />
+    <Skin name="Apocalyptic Brand" index="1" />
+    <Skin name="Vandal Brand" index="2" />
+    <Skin name="Cryocore Brand" index="3" />
+    <Skin name="Zombie Brand" index="4" />
+  </Model>
+  <Model name="Braum">
+    <Skin name="Classic" index="0" />
+    <Skin name="Dragonslayer Braum" index="1" />
+    <Skin name="El Tigre Braum" index="2" />
+  </Model>
+  <Model name="brush_BW_A">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_B">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_C">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_D">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_E">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_F">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_G">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_H">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_I">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_BW_J">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_A">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_B">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_C">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_D">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_E">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_F">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_G">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_H">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_I">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_CS_J">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_A">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_B">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_C">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_D">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_E">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_F">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_G">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_H">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_I">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_HA_J">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_A">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_B">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_C">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_D">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_E">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_F">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_G">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_H">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_I">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_SRU_J">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_A">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_B">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_C">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_D">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_E">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_F">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_G">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_H">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_I">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_J">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_K">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_L">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_M">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_N">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_O">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_P">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_Q">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_R">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_S">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_T">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="brush_TT_U">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_anclantern">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_Bubbs">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_ChaosTurret">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_ChaosTurret2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_ChaosTurret3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_ChaosTurretRubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_Finn">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_OrderTurret">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_OrderTurret2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_OrderTurret3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_AP_OrderTurretRubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_boat">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Bw_Bottle">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="bw_brdgdoor">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_dblrope">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_fishhk">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Bw_Hcannon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_Ironback">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_Lantern">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_Ocklepod">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_Plundercrab">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_Razorfin">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_seagull">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_shadowshark">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_shortrope">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_shrkhk">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_signa">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_signc">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Bw_Squid">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="bw_statlant">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="bw_tooth">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="BW_vship">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Caitlyn">
+    <Skin name="Classic" index="0" />
+    <Skin name="Resistance Caitlyn" index="1" />
+    <Skin name="Sheriff Caitlyn" index="2" />
+    <Skin name="Safari Caitlyn" index="3" />
+    <Skin name="Arctic Warfare Caitlyn" index="4" />
+    <Skin name="Officer Caitlyn" index="5" />
+    <Skin name="Headhunter Caitlyn" index="6" />
+    <Skin name="Lunar Wraith Caitlyn" index="7" />
+    <Skin name="Skin07" index="8" />
+    <Skin name="Skin08" index="9" />
+    <Skin name="Skin09" index="10" />
+  </Model>
+  <Model name="CaitlynTrap">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin06" index="1" />
+  </Model>
+  <Model name="Cassiopeia">
+    <Skin name="Classic" index="0" />
+    <Skin name="Desperada Cassiopeia" index="1" />
+    <Skin name="Siren Cassiopeia" index="2" />
+    <Skin name="Mythic Cassiopeia" index="3" />
+    <Skin name="Jade Fang Cassiopeia" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+  </Model>
+  <Model name="Cassiopeia_Death">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin04" index="1" />
+  </Model>
+  <Model name="ChaosInhibitor">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="ChaosInhibitor_D">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="ChaosNexus">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="ChaosTurretGiant">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ChaosTurretNormal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ChaosTurretShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ChaosTurretTutorial">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ChaosTurretWorm">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ChaosTurretWorm2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Chogath">
+    <Skin name="Classic" index="0" />
+    <Skin name="Nightmare Cho'Gath" index="1" />
+    <Skin name="Gentleman Cho'Gath" index="2" />
+    <Skin name="Loch Ness Cho'Gath" index="3" />
+    <Skin name="Jurassic Cho'Gath" index="4" />
+    <Skin name="Battlecast Prime Cho'Gath" index="5" />
+    <Skin name="Prehistoric Cho'Gath" index="6" />
+  </Model>
+  <Model name="Corki">
+    <Skin name="Classic" index="0" />
+    <Skin name="UFO Corki" index="1" />
+    <Skin name="Ice Toboggan Corki" index="2" />
+    <Skin name="Red Baron Corki" index="3" />
+    <Skin name="Hot Rod Corki" index="4" />
+    <Skin name="Urfrider Corki" index="5" />
+    <Skin name="Dragonwing Corki" index="6" />
+    <Skin name="Fnatic Corki" index="7" />
+  </Model>
+  <Model name="crystal_platform">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Darius">
+    <Skin name="Classic" index="0" />
+    <Skin name="Lord Darius" index="1" />
+    <Skin name="Bioforge Darius" index="2" />
+    <Skin name="Woad King Darius" index="3" />
+    <Skin name="Dunkmaster Darius" index="4" />
+    <Skin name="Academy Darius" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+  </Model>
+  <Model name="DestroyedInhibitor">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="DestroyedNexus">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="DestroyedTower">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Diana">
+    <Skin name="Classic" index="0" />
+    <Skin name="Dark Valkyrie Diana" index="1" />
+    <Skin name="Lunar Goddess Diana" index="2" />
+  </Model>
+  <Model name="Dragon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Draven">
+    <Skin name="Classic" index="0" />
+    <Skin name="Soul Reaver Draven" index="1" />
+    <Skin name="Gladiator Draven" index="2" />
+    <Skin name="Primetime Draven" index="3" />
+    <Skin name="Pool Party Draven" index="4" />
+  <Skin name="Beast Hunter Draven" index="5" />
+  </Model>
+  <Model name="DrMundo">
+    <Skin name="Classic" index="0" />
+    <Skin name="Toxic Dr. Mundo" index="1" />
+    <Skin name="Mr. Mundoverse" index="2" />
+    <Skin name="Corporate Mundo" index="3" />
+    <Skin name="Mundo Mundo" index="4" />
+    <Skin name="Executioner Mundo" index="5" />
+    <Skin name="Rageborn Mundo" index="6" />
+    <Skin name="TPA Mundo" index="7" />
+    <Skin name="Pool Party Mundo" index="8" />
+  </Model>
+  <Model name="Ekko">
+    <Skin name="Classic" index="0" />
+    <Skin name="Sandstorm Ekko" index="1" />
+    <Skin name="Academy Ekko" index="2" />
+  </Model>
+  <Model name="Elise">
+    <Skin name="Classic" index="0" />
+    <Skin name="Death Blossom Elise" index="1" />
+    <Skin name="Victorious Elise" index="2" />
+    <Skin name="Blood Moon Elise" index="3" />
+  </Model>
+  <Model name="EliseSpider">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="EliseSpiderling">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="Evelynn">
+    <Skin name="Classic" index="0" />
+    <Skin name="Shadow Evelynn" index="1" />
+    <Skin name="Masquerade Evelynn" index="2" />
+    <Skin name="Tango Evelynn" index="3" />
+    <Skin name="Safecracker Evelynn" index="4" />
+  </Model>
+  <Model name="Ezreal">
+    <Skin name="Classic" index="0" />
+    <Skin name="Nottingham Ezreal" index="1" />
+    <Skin name="Striker Ezreal" index="2" />
+    <Skin name="Frosted Ezreal" index="3" />
+    <Skin name="Explorer Ezreal" index="4" />
+    <Skin name="Pulsefire Ezreal" index="5" />
+    <Skin name="TPA Ezreal" index="6" />
+    <Skin name="Debonair Ezreal" index="7" />
+    <Skin name="Ace of Spades Ezreal" index="8" />
+  </Model>
+  <Model name="Ezreal_cyber_1">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Ezreal_cyber_2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Ezreal_cyber_3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="FiddleSticks">
+    <Skin name="Classic" index="0" />
+    <Skin name="Spectral Fiddlesticks" index="1" />
+    <Skin name="Union Jack Fiddlesticks" index="2" />
+    <Skin name="Bandito Fiddlesticks" index="3" />
+    <Skin name="Pumpkinhead Fiddlesticks" index="4" />
+    <Skin name="Fiddle Me Timbers" index="5" />
+    <Skin name="Surprise Party Fiddlesticks" index="6" />
+    <Skin name="Dark Candy Fiddlesticks" index="7" />
+    <Skin name="Risen Fiddlesticks" index="8" />
+  </Model>
+  <Model name="Fiora">
+    <Skin name="Classic" index="0" />
+    <Skin name="Royal Guard Fiora" index="1" />
+    <Skin name="Nightraven Fiora" index="2" />
+    <Skin name="Headmistress Fiora" index="3" />
+    <Skin name="PROJECT: Fiora" index="4" />
+  </Model>
+  <Model name="Fizz">
+    <Skin name="Classic" index="0" />
+    <Skin name="Atlantean Fizz" index="1" />
+    <Skin name="Tundra Fizz" index="2" />
+    <Skin name="Fisherman Fizz" index="3" />
+    <Skin name="Void Fizz" index="4" />
+    <Skin name="Cottontail Fizz" index="5" />
+    <Skin name="Skin06" index="6" />
+  </Model>
+  <Model name="FizzBait">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="FizzShark">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="Galio">
+    <Skin name="Classic" index="0" />
+    <Skin name="Enchanted Galio" index="1" />
+    <Skin name="Hextech Galio" index="2" />
+    <Skin name="Commando Galio" index="3" />
+    <Skin name="Gatekeeper Galio" index="4" />
+    <Skin name="Debonair Galio" index="5" />
+  </Model>
+  <Model name="Gangplank">
+    <Skin name="Classic" index="0" />
+    <Skin name="Spooky Gangplank" index="1" />
+    <Skin name="Minuteman Gangplank" index="2" />
+    <Skin name="Sailor Gangplank" index="3" />
+    <Skin name="Toy Soldier Gangplank" index="4" />
+    <Skin name="Special Forces Gangplank" index="5" />
+    <Skin name="Sultan Gangplank" index="6" />
+    <Skin name="Captain Gangplank" index="7" />
+  </Model>
+  <Model name="GangplankBarrel">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin04" index="2" />
+    <Skin name="Skin05" index="3" />
+    <Skin name="Skin06" index="4" />
+    <Skin name="Skin07" index="5" />
+  </Model>
+  <Model name="Garen">
+    <Skin name="Classic" index="0" />
+    <Skin name="Sanguine Garen" index="1" />
+    <Skin name="Desert Trooper Garen" index="2" />
+    <Skin name="Commando Garen" index="3" />
+    <Skin name="Dreadknight Garen" index="4" />
+    <Skin name="Rugged Garen" index="5" />
+    <Skin name="Steel Legion Garen" index="6" />
+    <Skin name="Rogue Admiral Garen" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+    <Skin name="Skin10" index="10" />
+  </Model>
+  <Model name="GhostWard">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="GiantWolf">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Gnar">
+    <Skin name="Classic" index="0" />
+    <Skin name="Dino Gnar" index="1" />
+    <Skin name="Gentleman Gnar" index="2" />
+  </Model>
+  <Model name="GnarBig">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Golem">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="GolemODIN">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Gragas">
+    <Skin name="Classic" index="0" />
+    <Skin name="Scuba Gragas" index="1" />
+    <Skin name="Hillbilly Gragas" index="2" />
+    <Skin name="Santa Gragas" index="3" />
+    <Skin name="Gragas, Esq." index="4" />
+    <Skin name="Vandal Gragas" index="5" />
+    <Skin name="Oktoberfest Gragas" index="6" />
+    <Skin name="Superfan Gragas" index="7" />
+    <Skin name="Fnatic Gragas" index="8" />
+  </Model>
+  <Model name="Graves">
+    <Skin name="Classic" index="0" />
+    <Skin name="Hired Gun Graves" index="1" />
+    <Skin name="Jailbreak Graves" index="2" />
+    <Skin name="Mafia Graves" index="3" />
+    <Skin name="Riot Graves" index="4" />
+    <Skin name="Pool Party Graves" index="5" />
+    <Skin name="Cutthroat Graves" index="6" />
+  </Model>
+  <Model name="GreatWraith">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HABW_banner">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HABW_Lantern">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_BannerMidBridge">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_BridgeLaneStatue">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="HA_AP_Chains">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="HA_AP_Chains_Long">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="HA_AP_ChaosTurret">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="HA_AP_ChaosTurret2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_ChaosTurret3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_ChaosTurretRubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_ChaosTurretShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_ChaosTurretTutorial">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_Cutaway">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_HealthRelic">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_Hermit">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_Hermit_Robot">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_HeroTower">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="HA_AP_OrderCloth">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_OrderShrineTurret">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_OrderTurret">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="HA_AP_OrderTurret2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_OrderTurret3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_OrderTurretRubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_OrderTurretTutorial">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_PeriphBridge">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="HA_AP_Poro">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin02" index="1" />
+  </Model>
+  <Model name="HA_AP_PoroSpawner">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_AP_ShpNorth">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="HA_AP_ShpSouth">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="HA_AP_Viking">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_ChaosMinionMelee">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_ChaosMinionRanged">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_ChaosMinionSiege">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_ChaosMinionSuper">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_FB_HealthRelic">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_OrderMinionMelee">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_OrderMinionRanged">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_OrderMinionSiege">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="HA_OrderMinionSuper">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Hecarim">
+    <Skin name="Classic" index="0" />
+    <Skin name="Blood Knight Hecarim" index="1" />
+    <Skin name="Reaper Hecarim" index="2" />
+    <Skin name="Headless Hecarim" index="3" />
+    <Skin name="Arcade Hecarim" index="4" />
+  </Model>
+  <Model name="Heimerdinger">
+    <Skin name="Classic" index="0" />
+    <Skin name="Alien Invader Heimerdinger" index="1" />
+    <Skin name="Blast Zone Heimerdinger" index="2" />
+    <Skin name="Piltover Customs Heimerdinger" index="3" />
+    <Skin name="Snowmerdinger" index="4" />
+    <Skin name="Hazmat Heimerdinger" index="5" />
+  </Model>
+  <Model name="HeimerTBlue">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="skin05" index="5" />
+  </Model>
+  <Model name="HeimerTYellow">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="skin05" index="5" />
+  </Model>
+  <Model name="Irelia">
+    <Skin name="Classic" index="0" />
+    <Skin name="Nightblade Irelia" index="1" />
+    <Skin name="Aviator Irelia" index="2" />
+    <Skin name="Infiltrator Irelia" index="3" />
+    <Skin name="Frostblade Irelia" index="4" />
+    <Skin name="Order of the Lotus Irelia" index="5" />
+  </Model>
+  <Model name="Janna">
+    <Skin name="Classic" index="0" />
+    <Skin name="Tempest Janna" index="1" />
+    <Skin name="Hextech Janna" index="2" />
+    <Skin name="Frost Queen Janna" index="3" />
+    <Skin name="Victorious Janna" index="4" />
+    <Skin name="Forecast Janna" index="5" />
+    <Skin name="Fnatic Janna" index="6" />
+  </Model>
+  <Model name="JarvanIV">
+    <Skin name="Classic" index="0" />
+    <Skin name="Commando Jarvan IV" index="1" />
+    <Skin name="Dragonslayer Jarvan IV" index="2" />
+    <Skin name="Darkforge Jarvan IV" index="3" />
+    <Skin name="Victorious Jarvan IV" index="4" />
+    <Skin name="Warring Kingdoms Jarvan IV" index="5" />
+    <Skin name="Fnatic Jarvan IV" index="6" />
+  </Model>
+  <Model name="JarvanIVStandard">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="JarvanIVWall">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Jax">
+    <Skin name="Classic" index="0" />
+    <Skin name="The Mighty Jax" index="1" />
+    <Skin name="Vandal Jax" index="2" />
+    <Skin name="Angler Jax" index="3" />
+    <Skin name="PAX Jax" index="4" />
+    <Skin name="Jaximus" index="5" />
+    <Skin name="Temple Jax" index="6" />
+    <Skin name="Nemesis Jax" index="7" />
+    <Skin name="SKT T1 Jax" index="8" />
+    <Skin name="Warden Jax" index="9" />
+  </Model>
+  <Model name="Jayce">
+    <Skin name="Classic" index="0" />
+    <Skin name="Full Metal Jayce" index="1" />
+    <Skin name="Debonair Jayce" index="2" />
+    <Skin name="Forsaken Jayce" index="3" />
+  </Model>
+  <Model name="Jhin">
+    <Skin name="Classic" index="0" />
+  <Skin name="OP" index="1" />
+  </Model>
+  <Model name="Jinx">
+    <Skin name="Classic" index="0" />
+    <Skin name="Mafia Jinx" index="1" />
+    <Skin name="Firecracker Jinx" index="2" />
+  <Skin name="Slayer Jinx" index="3" />
+  </Model>
+  <Model name="JinxMine">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Kalista">
+    <Skin name="Classic" index="0" />
+    <Skin name="Blood Moon Kalista" index="1" />
+    <Skin name="Championship Kalista" index="2" />
+  </Model>
+  <Model name="KalistaAltar">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="KalistaSpawn">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Karma">
+    <Skin name="Classic" index="0" />
+    <Skin name="Sun Goddess Karma" index="1" />
+    <Skin name="Sakura Karma" index="2" />
+    <Skin name="Traditional Karma" index="3" />
+    <Skin name="Order of the Lotus Karma" index="4" />
+    <Skin name="Warden Karma" index="5" />
+  </Model>
+  <Model name="Karthus">
+    <Skin name="Classic" index="0" />
+    <Skin name="Phantom Karthus" index="1" />
+    <Skin name="Statue of Karthus" index="2" />
+    <Skin name="Grim Reaper Karthus" index="3" />
+    <Skin name="Pentakill Karthus" index="4" />
+    <Skin name="Fnatic Karthus" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+  </Model>
+  <Model name="Kassadin">
+    <Skin name="Classic" index="0" />
+    <Skin name="Festival Kassadin" index="1" />
+    <Skin name="Deep One Kassadin" index="2" />
+    <Skin name="Pre-Void Kassadin" index="3" />
+    <Skin name="Harbinger Kassadin" index="4" />
+  </Model>
+  <Model name="Katarina">
+    <Skin name="Classic" index="0" />
+    <Skin name="Mercenary Katarina" index="1" />
+    <Skin name="Red Card Katarina" index="2" />
+    <Skin name="Bilgewater Katarina" index="3" />
+    <Skin name="Kitty Cat Katarina" index="4" />
+    <Skin name="High Command Katarina" index="5" />
+    <Skin name="Sandstorm Katarina" index="6" />
+    <Skin name="Slay Belle Katarina" index="7" />
+    <Skin name="Warring Kingdoms Katarina" index="8" />
+  </Model>
+  <Model name="Kayle">
+    <Skin name="Classic" index="0" />
+    <Skin name="Silver Kayle" index="1" />
+    <Skin name="Viridian Kayle" index="2" />
+    <Skin name="Unmasked Kayle" index="3" />
+    <Skin name="Battleborn Kayle" index="4" />
+    <Skin name="Judgment Kayle" index="5" />
+    <Skin name="Aether Wing Kayle" index="6" />
+    <Skin name="Riot Kayle" index="7" />
+  </Model>
+  <Model name="Kennen">
+    <Skin name="Classic" index="0" />
+    <Skin name="Deadly Kennen" index="1" />
+    <Skin name="Swamp Master Kennen" index="2" />
+    <Skin name="Karate Kennen" index="3" />
+    <Skin name="Kennen M.D." index="4" />
+    <Skin name="Arctic Ops Kennen" index="5" />
+  </Model>
+  <Model name="Khazix">
+    <Skin name="Classic" index="0" />
+    <Skin name="Mecha Kha'Zix" index="1" />
+    <Skin name="Guardian of the Sands Kha'Zix" index="2" />
+  </Model>
+  <Model name="Kindred">
+    <Skin name="Classic" index="0" />
+    <Skin name="Shadowfire Kindred" index="1" />
+  </Model>
+  <Model name="KindredJungleBountyMinion">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="KindredWolf">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="KingPoro">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="KINGPORO_HiddenUnit">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="KINGPORO_PoroFollower">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="KogMaw">
+    <Skin name="Classic" index="0" />
+    <Skin name="Caterpillar Kog'Maw" index="1" />
+    <Skin name="Sonoran Kog'Maw" index="2" />
+    <Skin name="Monarch Kog'Maw" index="3" />
+    <Skin name="Reindeer Kog'Maw" index="4" />
+    <Skin name="Lion Dance Kog'Maw" index="5" />
+    <Skin name="Deep Sea Kog'Maw" index="6" />
+    <Skin name="Jurassic Kog'Maw" index="7" />
+    <Skin name="Battlecast Kog'Maw" index="8" />
+  </Model>
+  <Model name="KogMawDead">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+  </Model>
+  <Model name="Leblanc">
+    <Skin name="Classic" index="0" />
+    <Skin name="Wicked LeBlanc" index="1" />
+    <Skin name="Prestigious LeBlanc" index="2" />
+    <Skin name="Mistletoe LeBlanc" index="3" />
+    <Skin name="Ravenborn LeBlanc" index="4" />
+  </Model>
+  <Model name="LeeSin">
+    <Skin name="Classic" index="0" />
+    <Skin name="Traditional Lee Sin" index="1" />
+    <Skin name="Acolyte Lee Sin" index="2" />
+    <Skin name="Dragon Fist Lee Sin" index="3" />
+    <Skin name="Muay Thai Lee Sin" index="4" />
+    <Skin name="Pool Party Lee Sin" index="5" />
+    <Skin name="SKT T1 Lee Sin" index="6" />
+    <Skin name="Knockout Lee Sin" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+    <Skin name="Skin10" index="10" />
+  </Model>
+  <Model name="Leona">
+    <Skin name="Classic" index="0" />
+    <Skin name="Valkyrie Leona" index="1" />
+    <Skin name="Defender Leona" index="2" />
+    <Skin name="Iron Solari Leona" index="3" />
+    <Skin name="Pool Party Leona" index="4" />
+    <Skin name="PROJECT: Leona" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+  </Model>
+  <Model name="LesserWraith">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Lissandra">
+    <Skin name="Classic" index="0" />
+    <Skin name="Bloodstone Lissandra" index="1" />
+    <Skin name="Blade Queen Lissandra" index="2" />
+  </Model>
+  <Model name="Lizard">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="LizardElder">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Lucian">
+    <Skin name="Classic" index="0" />
+    <Skin name="Hired Gun Lucian" index="1" />
+    <Skin name="Striker Lucian" index="2" />
+    <Skin name="PROJECT: Lucian" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+  </Model>
+  <Model name="Lulu">
+    <Skin name="Classic" index="0" />
+    <Skin name="Bittersweet Lulu" index="1" />
+    <Skin name="Wicked Lulu" index="2" />
+    <Skin name="Dragon Trainer Lulu" index="3" />
+    <Skin name="Winter Wonder Lulu" index="4" />
+    <Skin name="Pool Party Lulu" index="5" />
+  </Model>
+  <Model name="LuluCupcake">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="LuluDragon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="LuluFaerie">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="LuluKitty">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="LuluLadybug">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="LuluPig">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="LuluSeal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="LuluSnowman">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="LuluSquill">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="Lux">
+    <Skin name="Classic" index="0" />
+    <Skin name="Sorceress Lux" index="1" />
+    <Skin name="Spellthief Lux" index="2" />
+    <Skin name="Commando Lux" index="3" />
+    <Skin name="Imperial Lux" index="4" />
+    <Skin name="Steel Legion Lux" index="5" />
+    <Skin name="Star Guardian Lux" index="6" />
+  </Model>
+  <Model name="Malphite">
+    <Skin name="Classic" index="0" />
+    <Skin name="Shamrock Malphite" index="1" />
+    <Skin name="Coral Reef Malphite" index="2" />
+    <Skin name="Marble Malphite" index="3" />
+    <Skin name="Obsidian Malphite" index="4" />
+    <Skin name="Glacial Malphite" index="5" />
+    <Skin name="Mecha Malphite" index="6" />
+    <Skin name="Ironside Malphite" index="7" />
+  </Model>
+  <Model name="Malzahar">
+    <Skin name="Classic" index="0" />
+    <Skin name="Vizier Malzahar" index="1" />
+    <Skin name="Shadow Prince Malzahar" index="2" />
+    <Skin name="Djinn Malzahar" index="3" />
+    <Skin name="Overlord Malzahar" index="4" />
+    <Skin name="Snow Day Malzahar" index="5" />
+  </Model>
+  <Model name="MalzaharVoidling">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Maokai">
+    <Skin name="Classic" index="0" />
+    <Skin name="Charred Maokai" index="1" />
+    <Skin name="Totemic Maokai" index="2" />
+    <Skin name="Festive Maokai" index="3" />
+    <Skin name="Haunted Maokai" index="4" />
+    <Skin name="Goalkeeper Maokai" index="5" />
+  </Model>
+  <Model name="MaokaiSproutling">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="MasterYi">
+    <Skin name="Classic" index="0" />
+    <Skin name="Assassin Master Yi" index="1" />
+    <Skin name="Chosen Master Yi" index="2" />
+    <Skin name="Ionia Master Yi" index="3" />
+    <Skin name="Samurai Yi" index="4" />
+    <Skin name="Headhunter Master Yi" index="5" />
+    <Skin name="PROJECT: Yi" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+  </Model>
+  <Model name="MissFortune">
+    <Skin name="Classic" index="0" />
+    <Skin name="Cowgirl Miss Fortune" index="1" />
+    <Skin name="Waterloo Miss Fortune" index="2" />
+    <Skin name="Secret Agent Miss Fortune" index="3" />
+    <Skin name="Candy Cane Miss Fortune" index="4" />
+    <Skin name="Road Warrior Miss Fortune" index="5" />
+    <Skin name="Mafia Miss Fortune" index="6" />
+    <Skin name="Arcade Miss Fortune" index="7" />
+    <Skin name="Captain Fortune" index="8" />
+  </Model>
+  <Model name="MonkeyKing">
+    <Skin name="Classic" index="0" />
+    <Skin name="Volcanic Wukong" index="1" />
+    <Skin name="General Wukong" index="2" />
+    <Skin name="Jade Dragon Wukong" index="3" />
+    <Skin name="Underworld Wukong" index="4" />
+  </Model>
+  <Model name="MonkeyKingClone">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="MonkeyKingFlying">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="Mordekaiser">
+    <Skin name="Classic" index="0" />
+    <Skin name="Dragon Knight Mordekaiser" index="1" />
+    <Skin name="Infernal Mordekaiser" index="2" />
+    <Skin name="Pentakill Mordekaiser" index="3" />
+    <Skin name="Lord Mordekaiser" index="4" />
+    <Skin name="King of Clubs Mordekaiser" index="5" />
+  </Model>
+  <Model name="Morgana">
+    <Skin name="Classic" index="0" />
+    <Skin name="Exiled Morgana" index="1" />
+    <Skin name="Sinful Succulence Morgana" index="2" />
+    <Skin name="Blade Mistress Morgana" index="3" />
+    <Skin name="Blackthorn Morgana" index="4" />
+    <Skin name="Ghost Bride Morgana" index="5" />
+    <Skin name="Victorious Morgana" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+  </Model>
+  <Model name="Nami">
+    <Skin name="Classic" index="0" />
+    <Skin name="Koi Nami" index="1" />
+    <Skin name="River Spirit Nami" index="2" />
+    <Skin name="Urf the Nami-tee" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+  </Model>
+  <Model name="Nasus">
+    <Skin name="Classic" index="0" />
+    <Skin name="Galactic Nasus" index="1" />
+    <Skin name="Pharaoh Nasus" index="2" />
+    <Skin name="Dreadknight Nasus" index="3" />
+    <Skin name="Riot K-9 Nasus" index="4" />
+    <Skin name="Infernal Nasus" index="5" />
+    <Skin name="Archduke Nasus" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+  </Model>
+  <Model name="NasusUlt">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Nautilus">
+    <Skin name="Classic" index="0" />
+    <Skin name="Abyssal Nautilus" index="1" />
+    <Skin name="Subterranean Nautilus" index="2" />
+    <Skin name="AstroNautilus" index="3" />
+    <Skin name="Warden Nautilus" index="4" />
+  </Model>
+  <Model name="Nidalee">
+    <Skin name="Classic" index="0" />
+    <Skin name="Snow Bunny Nidalee" index="1" />
+    <Skin name="Leopard Nidalee" index="2" />
+    <Skin name="French Maid Nidalee" index="3" />
+    <Skin name="Pharaoh Nidalee" index="4" />
+    <Skin name="Bewitching Nidalee" index="5" />
+    <Skin name="Headhunter Nidalee" index="6" />
+    <Skin name="Warring Kingdoms Nidalee" index="7" />
+  </Model>
+  <Model name="Nidalee_Cougar">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+  </Model>
+  <Model name="Nidalee_Spear">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+  </Model>
+  <Model name="Nocturne">
+    <Skin name="Classic" index="0" />
+    <Skin name="Frozen Terror Nocturne" index="1" />
+    <Skin name="Void Nocturne" index="2" />
+    <Skin name="Ravager Nocturne" index="3" />
+    <Skin name="Haunting Nocturne" index="4" />
+    <Skin name="Eternum Nocturne" index="5" />
+  </Model>
+  <Model name="Nunu">
+    <Skin name="Classic" index="0" />
+    <Skin name="Sasquatch Nunu" index="1" />
+    <Skin name="Workshop Nunu" index="2" />
+    <Skin name="Grungy Nunu" index="3" />
+    <Skin name="Nunu Bot" index="4" />
+    <Skin name="Demolisher Nunu" index="5" />
+    <Skin name="TPA Nunu" index="6" />
+  </Model>
+  <Model name="OdinBlueSuperminion">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinCenterRelic">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinChaosTurretShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinClaw">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinCrane">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinMinionGraveyardPortal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinMinionSpawnPortal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinNeutralGuardian">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinOpeningBarrier">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinOrderTurretShrine">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="OdinQuestBuff">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinQuestIndicator">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinRedSuperminion">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinRockSaw">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinShieldRelic">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinSpeedShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OdinTestCubeRender">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_Blue_Minion_Caster">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_Drill">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_Lifts_Buckets">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_Lifts_Crystal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_Minecart">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_Red_Minion_Caster">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_skeleton">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_SoG_Chaos">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_SOG_Chaos_Crystal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_SoG_Order">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_SOG_Order_Crystal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_Windmill_Gears">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Odin_Windmill_Propellers">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Olaf">
+    <Skin name="Classic" index="0" />
+    <Skin name="Forsaken Olaf" index="1" />
+    <Skin name="Glacial Olaf" index="2" />
+    <Skin name="Brolaf" index="3" />
+    <Skin name="Pentakill Olaf" index="4" />
+    <Skin name="Marauder Olaf" index="5" />
+  </Model>
+  <Model name="OlafAxe">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="OrderInhibitor">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="OrderInhibitor_D">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="OrderNexus">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="OrderTurretAngel">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OrderTurretDragon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OrderTurretNormal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OrderTurretNormal2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OrderTurretShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="OrderTurretTutorial">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Orianna">
+    <Skin name="Classic" index="0" />
+    <Skin name="Gothic Orianna" index="1" />
+    <Skin name="Sewn Chaos Orianna" index="2" />
+    <Skin name="Bladecraft Orianna" index="3" />
+    <Skin name="TPA Orianna" index="4" />
+    <Skin name="Winter Wonder Orianna" index="5" />
+  </Model>
+  <Model name="OriannaBall">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="OriannaNoBall">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="Pantheon">
+    <Skin name="Classic" index="0" />
+    <Skin name="Myrmidon Pantheon" index="1" />
+    <Skin name="Ruthless Pantheon" index="2" />
+    <Skin name="Perseus Pantheon" index="3" />
+    <Skin name="Full Metal Pantheon" index="4" />
+    <Skin name="Glaive Warrior Pantheon" index="5" />
+    <Skin name="Dragonslayer Pantheon" index="6" />
+  </Model>
+  <Model name="Poppy">
+    <Skin name="Classic" index="0" />
+    <Skin name="Noxus Poppy" index="1" />
+    <Skin name="Lollipoppy" index="2" />
+    <Skin name="Blacksmith Poppy" index="3" />
+    <Skin name="Ragdoll Poppy" index="4" />
+    <Skin name="Battle Regalia Poppy" index="5" />
+    <Skin name="Scarlet Hammer Poppy" index="6" />
+  </Model>
+  <Model name="Quinn">
+    <Skin name="Classic" index="0" />
+    <Skin name="Phoenix Quinn" index="1" />
+    <Skin name="Woad Scout Quinn" index="2" />
+    <Skin name="Corsair Quinn" index="3" />
+  </Model>
+  <Model name="QuinnValor">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="Rammus">
+    <Skin name="Classic" index="0" />
+    <Skin name="King Rammus" index="1" />
+    <Skin name="Chrome Rammus" index="2" />
+    <Skin name="Molten Rammus" index="3" />
+    <Skin name="Freljord Rammus" index="4" />
+    <Skin name="Ninja Rammus" index="5" />
+    <Skin name="Full Metal Rammus" index="6" />
+    <Skin name="Guardian of the Sands Rammus" index="7" />
+  </Model>
+  <Model name="RammusDBC">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="RammusPB">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="redDragon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Red_Minion_Basic">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Red_Minion_MechCannon">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Red_Minion_MechMelee">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Red_Minion_Wizard">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="RekSai">
+    <Skin name="Classic" index="0" />
+    <Skin name="Eternum Rek'Sai" index="1" />
+    <Skin name="Pool Party Rek'Sai" index="2" />
+  </Model>
+  <Model name="RekSaiTunnel">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="Renekton">
+    <Skin name="Classic" index="0" />
+    <Skin name="Galactic Renekton" index="1" />
+    <Skin name="Outback Renekton" index="2" />
+    <Skin name="Bloodfury Renekton" index="3" />
+    <Skin name="Rune Wars Renekton" index="4" />
+    <Skin name="Scorched Earth Renekton" index="5" />
+    <Skin name="Pool Party Renekton" index="6" />
+    <Skin name="Prehistoric Renekton" index="7" />
+  </Model>
+  <Model name="Rengar">
+    <Skin name="Classic" index="0" />
+    <Skin name="Headhunter Rengar" index="1" />
+    <Skin name="Night Hunter Rengar" index="2" />
+    <Skin name="SSW Rengar" index="3" />
+  </Model>
+  <Model name="Riven">
+    <Skin name="Classic" index="0" />
+    <Skin name="Redeemed Riven" index="1" />
+    <Skin name="Crimson Elite Riven" index="2" />
+    <Skin name="Battle Bunny Riven" index="3" />
+    <Skin name="Championship Riven" index="4" />
+    <Skin name="Dragonblade Riven" index="5" />
+    <Skin name="Arcade Riven" index="6" />
+  </Model>
+  <Model name="Rumble">
+    <Skin name="Classic" index="0" />
+    <Skin name="Rumble in the Jungle" index="1" />
+    <Skin name="Bilgerat Rumble" index="2" />
+    <Skin name="Super Galaxy Rumble" index="3" />
+  </Model>
+  <Model name="Ryze">
+    <Skin name="Classic" index="0" />
+    <Skin name="Human Ryze" index="1" />
+    <Skin name="Tribal Ryze" index="2" />
+    <Skin name="Uncle Ryze" index="3" />
+    <Skin name="Triumphant Ryze" index="4" />
+    <Skin name="Professor Ryze" index="5" />
+    <Skin name="Zombie Ryze" index="6" />
+    <Skin name="Dark Crystal Ryze" index="7" />
+    <Skin name="Pirate Ryze" index="8" />
+  </Model>
+  <Model name="Sejuani">
+    <Skin name="Classic" index="0" />
+    <Skin name="Sabretusk Sejuani" index="1" />
+    <Skin name="Darkrider Sejuani" index="2" />
+    <Skin name="Traditional Sejuani" index="3" />
+    <Skin name="Bear Cavalry Sejuani" index="4" />
+    <Skin name="Poro Rider Sejuani" index="5" />
+  </Model>
+  <Model name="Shaco">
+    <Skin name="Classic" index="0" />
+    <Skin name="Mad Hatter Shaco" index="1" />
+    <Skin name="Royal Shaco" index="2" />
+    <Skin name="Nutcracko" index="3" />
+    <Skin name="Workshop Shaco" index="4" />
+    <Skin name="Asylum Shaco" index="5" />
+    <Skin name="Masked Shaco" index="6" />
+    <Skin name="Wild Card Shaco" index="7" />
+  </Model>
+  <Model name="ShacoBox">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+  </Model>
+  <Model name="Shen">
+    <Skin name="Classic" index="0" />
+    <Skin name="Frozen Shen" index="1" />
+    <Skin name="Yellow Jacket Shen" index="2" />
+    <Skin name="Surgeon Shen" index="3" />
+    <Skin name="Blood Moon Shen" index="4" />
+    <Skin name="Warlord Shen" index="5" />
+    <Skin name="TPA Shen" index="6" />
+  </Model>
+  <Model name="Shop">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ShopKeeper">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ShopMale">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Shyvana">
+    <Skin name="Classic" index="0" />
+    <Skin name="Ironscale Shyvana" index="1" />
+    <Skin name="Boneclaw Shyvana" index="2" />
+    <Skin name="Darkflame Shyvana" index="3" />
+    <Skin name="Ice Drake Shyvana" index="4" />
+    <Skin name="Championship Shyvana" index="5" />
+  </Model>
+  <Model name="ShyvanaDragon">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="SightWard">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+    <Skin name="Skin10" index="10" />
+    <Skin name="Skin11" index="11" />
+    <Skin name="Skin12" index="12" />
+    <Skin name="Skin13" index="13" />
+    <Skin name="Skin14" index="14" />
+    <Skin name="Skin15" index="15" />
+    <Skin name="Skin16" index="16" />
+    <Skin name="Skin17" index="17" />
+    <Skin name="Skin18" index="18" />
+    <Skin name="Skin19" index="19" />
+    <Skin name="Skin20" index="20" />
+    <Skin name="Skin21" index="21" />
+    <Skin name="Skin22" index="22" />
+    <Skin name="Skin23" index="23" />
+    <Skin name="Skin24" index="24" />
+    <Skin name="Skin25" index="25" />
+    <Skin name="Skin26" index="26" />
+    <Skin name="Skin27" index="27" />
+    <Skin name="Skin28" index="28" />
+    <Skin name="Skin29" index="29" />
+    <Skin name="Skin30" index="30" />
+    <Skin name="Skin31" index="31" />
+    <Skin name="Skin32" index="32" />
+    <Skin name="Skin33" index="33" />
+    <Skin name="Skin34" index="34" />
+    <Skin name="Skin35" index="35" />
+    <Skin name="Skin36" index="36" />
+    <Skin name="Skin37" index="37" />
+    <Skin name="Skin38" index="38" />
+    <Skin name="Skin39" index="39" />
+    <Skin name="Skin40" index="40" />
+    <Skin name="Skin41" index="41" />
+    <Skin name="Skin42" index="42" />
+    <Skin name="Skin43" index="43" />
+    <Skin name="Skin44" index="44" />
+    <Skin name="Skin45" index="45" />
+  </Model>
+  <Model name="Singed">
+    <Skin name="Classic" index="0" />
+    <Skin name="Riot Squad Singed" index="1" />
+    <Skin name="Hextech Singed" index="2" />
+    <Skin name="Surfer Singed" index="3" />
+    <Skin name="Mad Scientist Singed" index="4" />
+    <Skin name="Augmented Singed" index="5" />
+    <Skin name="Snow Day Singed" index="6" />
+    <Skin name="SSW Singed" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+    <Skin name="Skin010" index="10" />
+    <Skin name="Skin011" index="11" />
+  </Model>
+  <Model name="Sion">
+    <Skin name="Classic" index="0" />
+    <Skin name="Hextech Sion" index="1" />
+    <Skin name="Barbarian Sion" index="2" />
+    <Skin name="Lumberjack Sion" index="3" />
+    <Skin name="Warmonger Sion" index="4" />
+  </Model>
+  <Model name="Sivir">
+    <Skin name="Classic" index="0" />
+    <Skin name="Warrior Princess Sivir" index="1" />
+    <Skin name="Spectacular Sivir" index="2" />
+    <Skin name="Huntress Sivir" index="3" />
+    <Skin name="Bandit Sivir" index="4" />
+    <Skin name="PAX Sivir" index="5" />
+    <Skin name="Snowstorm Sivir" index="6" />
+    <Skin name="Warden Sivir" index="7" />
+  <Skin name="Victorious Sivir" index="8" />
+  </Model>
+  <Model name="Skarner">
+    <Skin name="Classic" index="0" />
+    <Skin name="Sandscourge Skarner" index="1" />
+    <Skin name="Earthrune Skarner" index="2" />
+    <Skin name="Battlecast Alpha Skarner" index="3" />
+    <Skin name="Guardian of the Sands Skarner" index="4" />
+  </Model>
+  <Model name="SkarnerPassiveCrystal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SmallGolem">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sona">
+    <Skin name="Classic" index="0" />
+    <Skin name="Muse Sona" index="1" />
+    <Skin name="Pentakill Sona" index="2" />
+    <Skin name="Silent Night Sona" index="3" />
+    <Skin name="Guqin Sona" index="4" />
+    <Skin name="Arcade Sona" index="5" />
+    <Skin name="DJ Sona" index="6" />
+  </Model>
+  <Model name="SonaDJGenre01">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SonaDJGenre02">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SonaDJGenre03">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Soraka">
+    <Skin name="Classic" index="0" />
+    <Skin name="Dryad Soraka" index="1" />
+    <Skin name="Divine Soraka" index="2" />
+    <Skin name="Celestine Soraka" index="3" />
+    <Skin name="Reaper Soraka" index="4" />
+    <Skin name="Order of the Banana Soraka" index="5" />
+  </Model>
+  <Model name="SpellBook1">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Building">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_ChaosInhibitor">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="sruap_chaosinhibitor_rubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_ChaosNexus">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sruap_Chaosnexus_Rubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sruap_Esports_Banner">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="sruap_flag">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_MageCrystal">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="sruap_mage_vines">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_OrderInhibitor">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="sruap_orderinhibitor_rubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_OrderNexus">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sruap_Ordernexus_Rubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sruap_Pali_Statue_Banner">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Chaos1">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="sruap_turret_chaos1_rubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Chaos2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Chaos3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Chaos3_Test">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Chaos4">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Chaos5">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Order1">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Order1_Rubble">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Order2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Order3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Order3_Test">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Order4">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRUAP_Turret_Order5">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Antlermouse">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Baron">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_BaronSpawn">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Bird">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Blue">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_BlueMini">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_BlueMini2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Butterfly">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_ChaosMinionMelee">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin02" index="1" />
+    <Skin name="Skin03" index="2" />
+    <Skin name="Skin04" index="3" />
+    <Skin name="Skin05" index="4" />
+  </Model>
+  <Model name="SRU_ChaosMinionRanged">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin02" index="1" />
+    <Skin name="Skin03" index="2" />
+    <Skin name="Skin04" index="3" />
+    <Skin name="Skin05" index="4" />
+  </Model>
+  <Model name="SRU_ChaosMinionSiege">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin02" index="1" />
+    <Skin name="Skin03" index="2" />
+    <Skin name="Skin04" index="3" />
+    <Skin name="Skin05" index="4" />
+  </Model>
+  <Model name="SRU_ChaosMinionSuper">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin04" index="1" />
+    <Skin name="Skin05" index="2" />
+  </Model>
+  <Model name="Sru_Crab">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_CrabWard">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Dragon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Dragonfly">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="sru_dragon_prop">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Duck">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Duckie">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Es_Banner">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Es_Bannerplatform_Chaos">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Es_Bannerplatform_Order">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Es_Bannerwall_Chaos">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Es_Bannerwall_Order">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Gromp">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Gromp_Prop">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Krug">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_KrugMini">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Lizard">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Murkwolf">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_MurkwolfMini">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_OrderMinionMelee">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin02" index="1" />
+    <Skin name="Skin03" index="2" />
+    <Skin name="Skin04" index="3" />
+    <Skin name="Skin05" index="4" />
+  </Model>
+  <Model name="SRU_OrderMinionRanged">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin02" index="1" />
+    <Skin name="Skin03" index="2" />
+    <Skin name="Skin04" index="3" />
+    <Skin name="Skin05" index="4" />
+  </Model>
+  <Model name="SRU_OrderMinionSiege">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin02" index="1" />
+    <Skin name="Skin03" index="2" />
+    <Skin name="Skin04" index="3" />
+    <Skin name="Skin05" index="4" />
+  </Model>
+  <Model name="SRU_OrderMinionSuper">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin04" index="1" />
+    <Skin name="Skin05" index="2" />
+  </Model>
+  <Model name="Sru_Porowl">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Razorbeak">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_RazorbeakMini">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Red">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_RedMini">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_RiverDummy">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Sru_Snail">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_SnailSpawner">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_Spiritwolf">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="sru_storekeepernorth">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="sru_storekeepersouth">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SRU_WallVisionBearer">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SummonerBeacon">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Summoner_Rider_Chaos">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Summoner_Rider_Order">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Swain">
+    <Skin name="Classic" index="0" />
+    <Skin name="Northern Front Swain" index="1" />
+    <Skin name="Bilgewater Swain" index="2" />
+    <Skin name="Tyrant Swain" index="3" />
+  </Model>
+  <Model name="SwainBeam">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="SwainNoBird">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="SwainRaven">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="Syndra">
+    <Skin name="Classic" index="0" />
+    <Skin name="Justicar Syndra" index="1" />
+    <Skin name="Atlantean Syndra" index="2" />
+    <Skin name="Queen of Diamonds Syndra" index="3" />
+  </Model>
+  <Model name="SyndraOrbs">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="SyndraSphere">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TahmKench">
+    <Skin name="Classic" index="0" />
+    <Skin name="Master Chef Tahm Kench" index="1" />
+  </Model>
+  <Model name="Talon">
+    <Skin name="Classic" index="0" />
+    <Skin name="Renegade Talon" index="1" />
+    <Skin name="Crimson Elite Talon" index="2" />
+    <Skin name="Dragonblade Talon" index="3" />
+    <Skin name="SSW Talon" index="4" />
+  </Model>
+  <Model name="Taric">
+    <Skin name="Classic" index="0" />
+    <Skin name="Emerald Taric" index="1" />
+    <Skin name="Armor of the Fifth Age Taric" index="2" />
+    <Skin name="Bloodstone Taric" index="3" />
+  </Model>
+  <Model name="Teemo">
+    <Skin name="Classic" index="0" />
+    <Skin name="Happy Elf Teemo" index="1" />
+    <Skin name="Recon Teemo" index="2" />
+    <Skin name="Badger Teemo" index="3" />
+    <Skin name="Astronaut Teemo" index="4" />
+    <Skin name="Cottontail Teemo" index="5" />
+    <Skin name="Super Teemo" index="6" />
+    <Skin name="Panda Teemo" index="7" />
+    <Skin name="Omega Squad Teemo" index="8" />
+  </Model>
+  <Model name="TeemoMushroom">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+    <Skin name="Skin06" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+  </Model>
+  <Model name="TestCube">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TestCubeRender">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TestCubeRender10Vision">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TestCubeRenderwCollision">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Thresh">
+    <Skin name="Classic" index="0" />
+    <Skin name="Deep Terror Thresh" index="1" />
+    <Skin name="Championship Thresh" index="2" />
+    <Skin name="Blood Moon Thresh" index="3" />
+    <Skin name="SSW Thresh" index="4" />
+  </Model>
+  <Model name="ThreshLantern">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="Tristana">
+    <Skin name="Classic" index="0" />
+    <Skin name="Riot Girl Tristana" index="1" />
+    <Skin name="Earnest Elf Tristana" index="2" />
+    <Skin name="Firefighter Tristana" index="3" />
+    <Skin name="Guerilla Tristana" index="4" />
+    <Skin name="Buccaneer Tristana" index="5" />
+    <Skin name="Rocket Girl Tristana" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+  </Model>
+  <Model name="Trundle">
+    <Skin name="Classic" index="0" />
+    <Skin name="Lil' Slugger Trundle" index="1" />
+    <Skin name="Junkyard Trundle" index="2" />
+    <Skin name="Traditional Trundle" index="3" />
+    <Skin name="Constable Trundle" index="4" />
+  </Model>
+  <Model name="TrundleWall">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Tryndamere">
+    <Skin name="Classic" index="0" />
+    <Skin name="Highland Tryndamere" index="1" />
+    <Skin name="King Tryndamere" index="2" />
+    <Skin name="Viking Tryndamere" index="3" />
+    <Skin name="Demonblade Tryndamere" index="4" />
+    <Skin name="Sultan Tryndamere" index="5" />
+    <Skin name="Warring Kingdoms Tryndamere" index="6" />
+    <Skin name="Nightmare Tryndamere" index="7" />
+  </Model>
+  <Model name="TT_Brazier">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Buffplat_L">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Buffplat_R">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Chains_Bot_Lane">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Chains_Order_Base">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Chains_Order_Periph">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Chains_Xaos_Base">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_ChaosInhibitor">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_ChaosInhibitor_D">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_ChaosTurret1">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_ChaosTurret2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_ChaosTurret3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_ChaosTurret4">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_ChaosTurret5">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_DummyPusher">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Flytrap_A">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Nexus_Gears">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_NGolem">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_NGolem2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_NWolf">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_NWolf2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_NWraith">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_NWraith2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_OrderInhibitor">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_OrderInhibitor_D">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_OrderTurret1">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_OrderTurret2">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_OrderTurret3">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_OrderTurret4">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_OrderTurret5">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Relic">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Shopkeeper">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="TT_Shroom_A">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_SpeedShrine">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Speedshrine_Gears">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Spiderboss">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_SpiderLayer_Web">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Tree1">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TT_Tree_A">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Tutorial_Blue_Minion_Basic">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Tutorial_Blue_Minion_Wizard">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Tutorial_Red_Minion_Basic">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Tutorial_Red_Minion_Wizard">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="TwistedFate">
+    <Skin name="Classic" index="0" />
+    <Skin name="PAX Twisted Fate" index="1" />
+    <Skin name="Jack of Hearts Twisted Fate" index="2" />
+    <Skin name="The Magnificent Twisted Fate" index="3" />
+    <Skin name="Tango Twisted Fate" index="4" />
+    <Skin name="High Noon Twisted Fate" index="5" />
+    <Skin name="Musketeer Twisted Fate" index="6" />
+    <Skin name="Underworld Twisted Fate" index="7" />
+    <Skin name="Red Card Twisted Fate" index="8" />
+    <Skin name="Cutpurse Twisted Fate" index="9" />
+    <Skin name="Skin010" index="10" />
+    <Skin name="Skin011" index="11" />
+    <Skin name="Skin012" index="12" />
+  </Model>
+  <Model name="Twitch">
+    <Skin name="Classic" index="0" />
+    <Skin name="Kingpin Twitch" index="1" />
+    <Skin name="Whistler Village Twitch" index="2" />
+    <Skin name="Medieval Twitch" index="3" />
+    <Skin name="Gangster Twitch" index="4" />
+    <Skin name="Vandal Twitch" index="5" />
+    <Skin name="Pickpocket Twitch" index="6" />
+    <Skin name="SSW Twitch" index="7" />
+  </Model>
+  <Model name="Udyr">
+    <Skin name="Classic" index="0" />
+    <Skin name="Black Belt Udyr" index="1" />
+    <Skin name="Primal Udyr" index="2" />
+    <Skin name="Spirit Guard Udyr" index="3" />
+    <Skin name="Definitely Not Udyr" index="4" />
+  </Model>
+  <Model name="UdyrPhoenix">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="UdyrPhoenixUlt">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="UdyrTiger">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="UdyrTigerUlt">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="UdyrTurtle">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+  </Model>
+  <Model name="UdyrTurtleUlt">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="UdyrUlt">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="Urf">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Urgot">
+    <Skin name="Classic" index="0" />
+    <Skin name="Giant Enemy Crabgot" index="1" />
+    <Skin name="Butcher Urgot" index="2" />
+    <Skin name="Battlecast Urgot" index="3" />
+  </Model>
+  <Model name="Varus">
+    <Skin name="Classic" index="0" />
+    <Skin name="Blight Crystal Varus" index="1" />
+    <Skin name="Arclight Varus" index="2" />
+    <Skin name="Arctic Ops Varus" index="3" />
+    <Skin name="Heartseeker Varus" index="4" />
+  <Skin name="Swiftbolt Varus" index="5" />
+  </Model>
+  <Model name="Vayne">
+    <Skin name="Classic" index="0" />
+    <Skin name="Vindicator Vayne" index="1" />
+    <Skin name="Aristocrat Vayne" index="2" />
+    <Skin name="Dragonslayer Vayne" index="3" />
+    <Skin name="Heartseeker Vayne" index="4" />
+    <Skin name="SKT T1 Vayne" index="5" />
+    <Skin name="Arclight Vayne" index="6" />
+    <Skin name="Skin07" index="7" />
+    <Skin name="Skin08" index="8" />
+    <Skin name="Skin09" index="9" />
+  </Model>
+  <Model name="Veigar">
+    <Skin name="Classic" index="0" />
+    <Skin name="White Mage Veigar" index="1" />
+    <Skin name="Curling Veigar" index="2" />
+    <Skin name="Veigar Greybeard" index="3" />
+    <Skin name="Leprechaun Veigar" index="4" />
+    <Skin name="Baron Von Veigar" index="5" />
+    <Skin name="Superb Villain Veigar" index="6" />
+    <Skin name="Bad Santa Veigar" index="7" />
+    <Skin name="Final Boss Veigar" index="8" />
+  </Model>
+  <Model name="Velkoz">
+    <Skin name="Classic" index="0" />
+    <Skin name="Battlecast Vel'Koz" index="1" />
+    <Skin name="Arclight Vel'Koz" index="2" />
+  </Model>
+  <Model name="Vi">
+    <Skin name="Classic" index="0" />
+    <Skin name="Neon Strike Vi" index="1" />
+    <Skin name="Officer Vi" index="2" />
+    <Skin name="Debonair Vi" index="3" />
+  </Model>
+  <Model name="Viktor">
+    <Skin name="Classic" index="0" />
+    <Skin name="Full Machine Viktor" index="1" />
+    <Skin name="Prototype Viktor" index="2" />
+    <Skin name="Creator Viktor" index="3" />
+  </Model>
+  <Model name="ViktorSingularity">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="VisionWard">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Vladimir">
+    <Skin name="Classic" index="0" />
+    <Skin name="Count Vladimir" index="1" />
+    <Skin name="Marquis Vladimir" index="2" />
+    <Skin name="Nosferatu Vladimir" index="3" />
+    <Skin name="Vandal Vladimir" index="4" />
+    <Skin name="Blood Lord Vladimir" index="5" />
+    <Skin name="Soulstealer Vladimir" index="6" />
+    <Skin name="Academy Vladimir" index="7" />
+  </Model>
+  <Model name="VoidGate">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="VoidSpawn">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="VoidSpawnTracer">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Volibear">
+    <Skin name="Classic" index="0" />
+    <Skin name="Thunder Lord Volibear" index="1" />
+    <Skin name="Northern Storm Volibear" index="2" />
+    <Skin name="Runeguard Volibear" index="3" />
+    <Skin name="Captain Volibear" index="4" />
+  </Model>
+  <Model name="Warwick">
+    <Skin name="Classic" index="0" />
+    <Skin name="Grey Warwick" index="1" />
+    <Skin name="Urf the Manatee" index="2" />
+    <Skin name="Big Bad Warwick" index="3" />
+    <Skin name="Tundra Hunter Warwick" index="4" />
+    <Skin name="Feral Warwick" index="5" />
+    <Skin name="Firefang Warwick" index="6" />
+    <Skin name="Hyena Warwick" index="7" />
+    <Skin name="Marauder Warwick" index="8" />
+  </Model>
+  <Model name="wolf">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Worm">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+  </Model>
+  <Model name="Wraith">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Xerath">
+    <Skin name="Classic" index="0" />
+    <Skin name="Runeborn Xerath" index="1" />
+    <Skin name="Battlecast Xerath" index="2" />
+    <Skin name="Scorched Earth Xerath" index="3" />
+    <Skin name="Guardian of the Sands Xerath" index="4" />
+  </Model>
+  <Model name="XerathArcaneBarrageLauncher">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="XinZhao">
+    <Skin name="Classic" index="0" />
+    <Skin name="Commando Xin Zhao" index="1" />
+    <Skin name="Imperial Xin Zhao" index="2" />
+    <Skin name="Viscero Xin Zhao" index="3" />
+    <Skin name="Winged Hussar Xin Zhao" index="4" />
+    <Skin name="Warring Kingdoms Xin Zhao" index="5" />
+    <Skin name="Secret Agent Xin Zhao" index="6" />
+  </Model>
+  <Model name="Yasuo">
+    <Skin name="Classic" index="0" />
+    <Skin name="High Noon Yasuo" index="1" />
+    <Skin name="PROJECT: Yasuo" index="2" />
+  </Model>
+  <Model name="YellowTrinket">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="YellowTrinketUpgrade">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Yonkey">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Yorick">
+    <Skin name="Classic" index="0" />
+    <Skin name="Undertaker Yorick" index="1" />
+    <Skin name="Pentakill Yorick" index="2" />
+  </Model>
+  <Model name="YorickDecayedGhoul">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="YorickRavenousGhoul">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="YorickSpectralGhoul">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="YoungLizard">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="Zac">
+    <Skin name="Classic" index="0" />
+    <Skin name="Special Weapon Zac" index="1" />
+    <Skin name="Pool Party Zac" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="ZacRebirthBloblet">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+    <Skin name="Skin04" index="4" />
+    <Skin name="Skin05" index="5" />
+  </Model>
+  <Model name="Zed">
+    <Skin name="Classic" index="0" />
+    <Skin name="Shockblade Zed" index="1" />
+    <Skin name="SKT T1 Zed" index="2" />
+    <Skin name="PROJECT: Zed" index="3" />
+  </Model>
+  <Model name="ZedShadow">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+    <Skin name="Skin03" index="3" />
+  </Model>
+  <Model name="Ziggs">
+    <Skin name="Classic" index="0" />
+    <Skin name="Mad Scientist Ziggs" index="1" />
+    <Skin name="Major Ziggs" index="2" />
+    <Skin name="Pool Party Ziggs" index="3" />
+    <Skin name="Snow Day Ziggs" index="4" />
+    <Skin name="Master Arcanist Ziggs" index="5" />
+  </Model>
+  <Model name="Zilean">
+    <Skin name="Classic" index="0" />
+    <Skin name="Old Saint Zilean" index="1" />
+    <Skin name="Groovy Zilean" index="2" />
+    <Skin name="Shurima Desert Zilean" index="3" />
+    <Skin name="Time Machine Zilean" index="4" />
+    <Skin name="Blood Moon Zilean" index="5" />
+  </Model>
+  <Model name="Zyra">
+    <Skin name="Classic" index="0" />
+    <Skin name="Wildfire Zyra" index="1" />
+    <Skin name="Haunted Zyra" index="2" />
+    <Skin name="SKT T1 Zyra" index="3" />
+  </Model>
+  <Model name="ZyraGraspingPlant">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="ZyraPassive">
+    <Skin name="Classic" index="0" />
+  </Model>
+  <Model name="ZyraSeed">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+  <Model name="ZyraThornPlant">
+    <Skin name="Classic" index="0" />
+    <Skin name="Skin01" index="1" />
+    <Skin name="Skin02" index="2" />
+  </Model>
+</Data>
