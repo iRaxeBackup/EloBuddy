@@ -1,9 +1,0 @@
-﻿Error Code:
-
-503 = Failed to load Champion Script
-
-2 = Failed to load Menu
-
-1 = Failed to Load AIO
-
-5 = Failed to load Events
